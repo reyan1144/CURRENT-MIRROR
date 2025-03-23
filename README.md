@@ -27,6 +27,10 @@ Active Loads: Replaces resistors in differential pairs to enhance voltage gain.
 Current Scaling: Generates multiple proportional currents from a single reference.  
 Signal Processing: Used in current-mode circuits like current amplifiers or DACs.  
 
+Circuit Diagram  
+
+![Image](https://github.com/user-attachments/assets/c28085ab-1743-4b78-aad1-d5dd31c3ec9c)  
+
 
 
 
