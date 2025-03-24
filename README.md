@@ -40,6 +40,9 @@ IOUT = IRef*(W/L)2 / (W/L)1
  Iref = 0.208mA  
 
  # CIRCUIT DIAGRAM  
+
+ ![Image](https://github.com/user-attachments/assets/d32f1fd6-abe0-4377-9b6c-78f1ec4a4b18)  
+ 
  
 
 A)1:1  
