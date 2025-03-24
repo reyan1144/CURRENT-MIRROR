@@ -116,6 +116,12 @@ The obtained gain = 24.34dB
 Frequency = 9.74MHz  
 Bandwidth = 40.30MHz  
 
+2) LENGTH = 500n
+
+DC ANALYSIS  
+
+
+
 
 
 
