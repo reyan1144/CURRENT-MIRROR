@@ -178,6 +178,11 @@ Design the differential amplifier using the same design specification as experim
 
 CIRCUIT DIAGRAM  
 
+![Image](https://github.com/user-attachments/assets/807cb146-d1ed-41c2-9e13-9a0323d6f70d)  
+
+DC ANALYSIS  
+
+
    
 
    
