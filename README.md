@@ -38,6 +38,15 @@ IOUT = IRef*(W/L)2 / (W/L)1
 
  Let Power = 0.75mW , Itotal = P/Vdd = 0.75mW/1.8 = 0.416mA  
  Iref = 0.208mA  
+
+A)1:1  
+1) LENGTH = 180n  
+DC ANALYSIS
+
+![Image](https://github.com/user-attachments/assets/bc2930c2-cc08-4492-9a99-01c298ea3f5a  
+
+TRANSIENT ANALYSIS  
+ 
  
    
 
