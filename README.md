@@ -159,6 +159,12 @@ The obtained gain = 14.77dB
 Frequency = 10MHz  
 Bandwidth = 398.93MHz  
 
+# COMPARISON TABLE  
+
+1) FOR LENGTH = 180n
+
+
+
 
 
 
