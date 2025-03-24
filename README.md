@@ -188,6 +188,7 @@ TRANSIENT ANALYSIS
 ![Image](https://github.com/user-attachments/assets/557652cb-f015-4c33-a7ba-9ad0f4b88c9c)  
 
 AC ANALYSIS  
+![Image](https://github.com/user-attachments/assets/a55c1be6-69b0-4dc5-a370-cb5d8bb7a5c3)  
 
 
 
