@@ -31,6 +31,14 @@ Circuit Diagram
 
 ![Image](https://github.com/user-attachments/assets/c28085ab-1743-4b78-aad1-d5dd31c3ec9c)  
 
+IOUT = IRef*(W/L)2 / (W/L)1  
+# QUESTION  
+ Design and analyze current mirror circuit as active load in amplifier circuit  
+
+ Let Power = 0.75mW , Itotal = P/Vdd = 0.75mW/1.8 = 0.416mA  
+ Iref = 0.208mA  
+   
+
 
 
 
