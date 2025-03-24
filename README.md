@@ -66,6 +66,12 @@ DC ANALYSIS
 
 TRANSIENT ANALYSIS  
 
+![Image](https://github.com/user-attachments/assets/adfc666a-12f5-4ae7-8221-6a891261db54)  
+
+AC ANALYSIS  
+
+
+
 
 
  
