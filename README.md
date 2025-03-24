@@ -128,6 +128,20 @@ TRANSIENT ANALYSIS
 
 AC ANALYSIS  
 
+![Image](https://github.com/user-attachments/assets/469ad180-364d-41bf-bc8f-53e03d12b793)  
+
+The obtained gain = 29.39dB  
+3dB gain = 26.39dB  
+Frequency = 9.31MHz  
+Bandwidth = 118.80MHz  
+
+3) LENGTH = 1u
+
+DC ANALYSIS  
+
+
+
+
 
 
 
