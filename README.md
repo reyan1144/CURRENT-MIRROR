@@ -139,6 +139,12 @@ Bandwidth = 118.80MHz
 
 DC ANALYSIS  
 
+![Image](https://github.com/user-attachments/assets/8d3b1abf-bb13-4dbf-a980-f6cfc3d72a14)  
+
+TRANSIENT ANALYSIS  
+
+
+
 
 
 
