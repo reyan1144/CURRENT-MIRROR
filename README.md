@@ -182,6 +182,12 @@ CIRCUIT DIAGRAM
 
 DC ANALYSIS  
 
+![Image](https://github.com/user-attachments/assets/d1335c85-7c32-429f-8193-93aa6f44ad8d)  
+
+TRANSIENT ANALYSIS  
+
+
+
 
    
 
