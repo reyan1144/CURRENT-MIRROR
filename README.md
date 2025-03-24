@@ -58,7 +58,16 @@ The obtained gain = 28.559dB
 Frequency = 10MHz  
 Bandwidth = 56.67MHz  
 
-2) LENGTH = 500n  
+2) LENGTH = 500n
+
+DC ANALYSIS  
+
+![Image](https://github.com/user-attachments/assets/bbb1533d-324e-460d-bef3-e755cf8f93a0)  
+
+TRANSIENT ANALYSIS  
+
+
+
  
  
    
