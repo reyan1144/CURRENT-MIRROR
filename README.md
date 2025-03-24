@@ -101,6 +101,14 @@ B) 1:2
 
 DC ANALYSIS  
 
+![Image](https://github.com/user-attachments/assets/086470e7-6d27-4154-bac6-245d2b584583)  
+
+TRANSIENT ANALYSIS  
+
+
+
+
+
 
 
 
