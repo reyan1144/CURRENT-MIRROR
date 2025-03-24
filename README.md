@@ -120,6 +120,12 @@ Bandwidth = 40.30MHz
 
 DC ANALYSIS  
 
+![Image](https://github.com/user-attachments/assets/1daa9dfd-6b98-42ab-bb74-098c9b68b0a3)  
+
+TRANSIENT ANALYSIS  
+
+
+
 
 
 
