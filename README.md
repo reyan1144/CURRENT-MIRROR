@@ -167,6 +167,10 @@ Bandwidth = 398.93MHz
 
 2) FOR LENGTH = 500n
 
+   ![Image](https://github.com/user-attachments/assets/c2979880-3ac5-4b4c-aa59-094b3c020a82)
+
+3) FOR LENGTH = 1u
+
    
    
 
