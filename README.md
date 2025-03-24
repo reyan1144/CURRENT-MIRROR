@@ -39,6 +39,9 @@ IOUT = IRef*(W/L)2 / (W/L)1
  Let Power = 0.75mW , Itotal = P/Vdd = 0.75mW/1.8 = 0.416mA  
  Iref = 0.208mA  
 
+ # CIRCUIT DIAGRAM  
+ 
+
 A)1:1  
 1) LENGTH = 180n  
 DC ANALYSIS
