@@ -81,6 +81,11 @@ Bandwidth = 47.07MHz
 
 DC ANALYSIS  
 
+![Image](https://github.com/user-attachments/assets/10439f63-0da4-41c3-ae6f-8a98cb64bff7)  
+
+TRANSIEBNT ANALYSIS  
+
+
 
 
 
