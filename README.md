@@ -173,6 +173,10 @@ Bandwidth = 398.93MHz
 
    ![Image](https://github.com/user-attachments/assets/2cc5834f-7ced-468d-9496-f9991d2192d3)
 
+   Variations in current, Vx and Vout is because of Channel length modulation.
+   
+   
+
 # SECOND PART OF QUESTION  
 Design the differential amplifier using the same design specification as experiment 3(differential amplifier). Perform DC, Transient, AC analysis for this.  
 
